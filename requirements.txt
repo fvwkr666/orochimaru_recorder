@@ -1,2 +1,1 @@
-py-cord
-replit-ffmpeg
+discord.py==1.7.3
